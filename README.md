@@ -6,4 +6,7 @@ The application is designed for an Android phone with a resolution of 360 x 640 
 ## About the application the UI is made for
 The UI is for an imaginary application for a Rocket Science sports club to borrow sports equipment. The users of this application are all tech-savvy adults who are used to work with computers and different kind of applications. 
 
-More info about the UI is in the PDF file in Finnish. The PDF file also includes as a Figma link to the UI. I'll update the info later here in English.
+More info about the UI is in the PDF file in Finnish. I'll update the info later here in English.
+
+## Link to the UI design
+See the created UI design live in https://www.figma.com/file/GpLLK8IGlE4z9xlYRRzVeRfS/Mobiili-j%C3%A4rjestelm%C3%A4
